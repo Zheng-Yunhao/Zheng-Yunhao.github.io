@@ -22,7 +22,9 @@ These works provide an overview of my research.
 
 ## Other Publications
 
-* Yap, A. U., <u> Zheng, Y. </u>, Li, H., Wo, P. K., & Xiong, X.* (2025). **Psychometric properties of the four-dimension impact framework for assessing temporomandibular disorders.** _Cranio: The Journal of Craniomandibular Practice_, Advance online publication.  <a href="https://doi.org/10.1080/08869634.2025.2567111"> [Paper]</a> 
+* Yap, A. U., <u> Zheng, Y. </u>, Li, H., Wo, P. K., & Xiong, X.* (2025). **Psychometric properties of the four-dimension impact framework for assessing temporomandibular disorders.** _Cranio: The Journal of Craniomandibular Practice_, Advance online publication.  <a href="https://doi.org/10.1080/08869634.2025.2567111"> [Paper]</a>
+
+* Wang, T., <u> Zheng, Y. </u>, Sun, Y., Wei, N., Hao, L., Yue, Y.*, & Xiong, X.* (2025). **Education moderates the association between self-rated oral health and oral health-related quality of life**. _Clinical Oral Investigations_, 29(6), 318.  <a href="https://doi.org/10.1007/s00784-025-06395-1"> [Paper]</a>
 
 * Yap, A. U., <u> Zheng, Y. </u>, Liu, T., Li, Y., Liu, Y., Zhou, X., Wang, J., & Xiong, X.* (2025). **General and Health Anxiety in Temporomandibular Disorders: Correlates With Depression, Pain Intensity, Sleep Propensity, Oral Behaviours, Jaw Function, and Oral Health-Related Quality of Life.** _Journal of Oral Rehabilitation_, 52(10), 1619–1628. <a href="https://doi.org/10.1111/joor.14023"> [Paper]</a>
 
