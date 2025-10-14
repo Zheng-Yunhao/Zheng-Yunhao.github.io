@@ -22,6 +22,8 @@ These works provide an overview of my research.
 
 ## Other Publications
 
+* Yap, A. U.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Liu, T., Li, Y., Wo, P. K., Du, S.\*, & Xiong, X.\* (2025). **Impact of comorbid depression and anxiety on temporomandibular disorders related pain, sleep, function, behaviors, and quality of life.** _Scientific Reports_, 15(1), 35620. <a href="https://doi.org/10.1038/s41598-025-19524-3"> [Paper]</a>
+
 * Yap, A. U., <u> Zheng, Y. </u>, Li, H., Wo, P. K., & Xiong, X.* (2025). **Psychometric properties of the four-dimension impact framework for assessing temporomandibular disorders.** _Cranio: The Journal of Craniomandibular Practice_, Advance online publication.  <a href="https://doi.org/10.1080/08869634.2025.2567111"> [Paper]</a>
 
 * Wang, T., <u> Zheng, Y. </u>, Sun, Y., Wei, N., Hao, L., Yue, Y.\*, & Xiong, X.\* (2025). **Education moderates the association between self-rated oral health and oral health-related quality of life**. _Clinical Oral Investigations_, 29(6), 318.  <a href="https://doi.org/10.1007/s00784-025-06395-1"> [Paper]</a>
@@ -29,3 +31,5 @@ These works provide an overview of my research.
 * Yap, A. U., <u> Zheng, Y. </u>, Liu, T., Li, Y., Liu, Y., Zhou, X., Wang, J., & Xiong, X.* (2025). **General and Health Anxiety in Temporomandibular Disorders: Correlates With Depression, Pain Intensity, Sleep Propensity, Oral Behaviours, Jaw Function, and Oral Health-Related Quality of Life.** _Journal of Oral Rehabilitation_, 52(10), 1619–1628. <a href="https://doi.org/10.1111/joor.14023"> [Paper]</a>
 
 * Yap, A. U., <u> Zheng, Y. </u>, Luo, F., Liu, T., Li, Y., Liu, Y., Zhou, X., & Xiong, X.* (2025). **Insights Into Oral Behaviours Among Temporomandibular Disorder Patients: Associations With Psychological Distress, Sleep Propensity and Jaw Function.** _Journal of Oral Rehabilitation_. Advance online publication. <a href="https://doi.org/10.1111/joor.14028"> [Paper]
+
+* Zhu, R., <u> Zheng, Y. H. </u>, Zhang, Z. H., Fan, P. D., Wang, J., & Xiong, X.* (2022). **Development of a new category system for the profile morphology of temporomandibular disorders patients based on cephalograms using cluster analysis.** _Frontiers in Public Health_, 10, 1045815. <a href="https://doi.org/10.3389/fpubh.2022.1045815"> [Paper]
