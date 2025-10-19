@@ -39,5 +39,3 @@ These works provide an overview of my research.
 * Long, Y. F., <u> Zheng, Y. H. </u>, Fu, Y. H., Si, J. R., Yue, Y., Liu, Y., & Xiong, X\*. (2024). **Pain symptoms are associated with two-point discrimination threshold in patients with temporomandibular disorders**. _Clinical Oral Investigations_, 28(5), 273. <a href="https://doi.org/10.1007/s00784-024-05667-6"> [Paper]
 
 * Zhu, R., <u> Zheng, Y. H. </u>, Zhang, Z. H., Fan, P. D., Wang, J., & Xiong, X.* (2022). **Development of a new category system for the profile morphology of temporomandibular disorders patients based on cephalograms using cluster analysis.** _Frontiers in Public Health_, 10, 1045815. <a href="https://doi.org/10.3389/fpubh.2022.1045815"> [Paper]
-
-* 
