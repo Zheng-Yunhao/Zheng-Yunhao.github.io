@@ -22,9 +22,11 @@ These works provide an overview of my research.
 
 ## Other Publications
 
+* Wang, J., Zhong, Y., <u> Zheng, Y. </u>, Long, Y., Luo, F., Weng, Y., Xiong, X.\*, & Fang, S\*. (2025). **Association Between Number of Temporomandibular Disorders Symptoms and Oral Health Quality of Life: A Cross-Sectional Study in a Community-Based Population**. _Journal of Oral Rehabilitation_, 52(11), 2000–2009.  <a href="https://doi.org/10.1111/joor.70004"> [Paper]</a>
+
 * Yap, A. U.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Liu, T., Li, Y., Wo, P. K., Du, S.\*, & Xiong, X.\* (2025). **Impact of comorbid depression and anxiety on temporomandibular disorders related pain, sleep, function, behaviors, and quality of life.** _Scientific Reports_, 15(1), 35620. <a href="https://doi.org/10.1038/s41598-025-19524-3"> [Paper]</a>
 
-* Yap, A. U., <u> Zheng, Y. </u>, Li, H., Wo, P. K., & Xiong, X.* (2025). **Psychometric properties of the four-dimension impact framework for assessing temporomandibular disorders.** _Cranio: The Journal of Craniomandibular Practice_, Advance online publication.  <a href="https://doi.org/10.1080/08869634.2025.2567111"> [Paper]</a>
+* Yap, A. U.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Li, H., Wo, P. K., & Xiong, X.* (2025). **Psychometric properties of the four-dimension impact framework for assessing temporomandibular disorders.** _Cranio: The Journal of Craniomandibular Practice_, Advance online publication.  <a href="https://doi.org/10.1080/08869634.2025.2567111"> [Paper]</a>
 
 * Wang, T., <u> Zheng, Y. </u>, Sun, Y., Wei, N., Hao, L., Yue, Y.\*, & Xiong, X.\* (2025). **Education moderates the association between self-rated oral health and oral health-related quality of life**. _Clinical Oral Investigations_, 29(6), 318.  <a href="https://doi.org/10.1007/s00784-025-06395-1"> [Paper]</a>
 
@@ -32,4 +34,10 @@ These works provide an overview of my research.
 
 * Yap, A. U., <u> Zheng, Y. </u>, Luo, F., Liu, T., Li, Y., Liu, Y., Zhou, X., & Xiong, X.* (2025). **Insights Into Oral Behaviours Among Temporomandibular Disorder Patients: Associations With Psychological Distress, Sleep Propensity and Jaw Function.** _Journal of Oral Rehabilitation_. Advance online publication. <a href="https://doi.org/10.1111/joor.14028"> [Paper]
 
+* Zhang, Y.<sup>#</sup>, Zhu, T.<sup>#</sup>, <u> Zheng, Y. </u>, Xiong, Y., Liu, W., Zeng, W., Tang, W\*., & Liu, C\*. (2024). **Machine learning-based medical imaging diagnosis in patients with temporomandibular disorders: a diagnostic test accuracy systematic review and meta-analysis**. _Clinical Oral Investigations_, 28(3), 186. <a href="https://doi.org/10.1007/s00784-024-05586-6"> [Paper] 
+
+* Long, Y. F., <u> Zheng, Y. H. </u>, Fu, Y. H., Si, J. R., Yue, Y., Liu, Y., & Xiong, X\*. (2024). **Pain symptoms are associated with two-point discrimination threshold in patients with temporomandibular disorders**. _Clinical Oral Investigations_, 28(5), 273. <a href="https://doi.org/10.1007/s00784-024-05667-6"> [Paper]
+
 * Zhu, R., <u> Zheng, Y. H. </u>, Zhang, Z. H., Fan, P. D., Wang, J., & Xiong, X.* (2022). **Development of a new category system for the profile morphology of temporomandibular disorders patients based on cephalograms using cluster analysis.** _Frontiers in Public Health_, 10, 1045815. <a href="https://doi.org/10.3389/fpubh.2022.1045815"> [Paper]
+
+* 
