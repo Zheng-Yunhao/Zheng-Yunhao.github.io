@@ -12,3 +12,6 @@ I am currently a second-year Master's student at the [West China School/Hospital
 -  **Biopsychosocial Model of TMD**: Employing biostatistical and machine learning approaches to refine the biopsychosocial model of TMD and develop validated psychometric instruments tailored for TMD populations.
 -  **Medical Image for TMJ and Orthodontics**: Applying computer vision techniques for the automated analysis of temporomandibular joint (TMJ) imaging and craniofacial structures to support diagnosis and treatment planning.
 -  **Digital Orthodontics**: Designing and validating algorithms and software tools to advance digital workflows in orthodontics.
+
+## News
+* **[2025-12]** My first-authored paper "Development and Validation of the Short Form OHIP-TMD (SF-OHIP-TMD)", has been accepted to IADR 2026 Oral.
