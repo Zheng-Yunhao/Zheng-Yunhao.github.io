@@ -14,4 +14,4 @@ I am currently a second-year Master's student at the [West China School/Hospital
 -  **Digital Orthodontics**: Designing and validating algorithms and software tools to advance digital workflows in orthodontics.
 
 ## News
-* **[2025-12]** My first-authored paper "Development and Validation of the Short Form OHIP-TMD (SF-OHIP-TMD)", has been accepted to IADR 2026 Oral.
+* **[2025-12]** My first-authored paper "Development and Validation of the Short Form OHIP-TMD (SF-OHIP-TMD)" has been accepted to **IADR 2026 Oral**!
