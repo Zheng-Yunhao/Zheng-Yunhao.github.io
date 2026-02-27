@@ -36,8 +36,6 @@ These works provide an overview of my research.
 
 * Yap, A. U., <u> Zheng, Y. </u>, Liu, T., Li, Y., Liu, Y., Zhou, X., Wang, J., & Xiong, X.* (2025). **General and Health Anxiety in Temporomandibular Disorders: Correlates With Depression, Pain Intensity, Sleep Propensity, Oral Behaviours, Jaw Function, and Oral Health-Related Quality of Life.** _Journal of Oral Rehabilitation_, 52(10), 1619–1628. <a href="https://doi.org/10.1111/joor.14023"> [Paper]</a>
 
-* Yap, A. U., <u> Zheng, Y. </u>, Luo, F., Liu, T., Li, Y., Liu, Y., Zhou, X., & Xiong, X.* (2025). **Insights Into Oral Behaviours Among Temporomandibular Disorder Patients: Associations With Psychological Distress, Sleep Propensity and Jaw Function.** _Journal of Oral Rehabilitation_. Advance online publication. <a href="https://doi.org/10.1111/joor.14028"> [Paper]
-
 * Zhang, Y.<sup>#</sup>, Zhu, T.<sup>#</sup>, <u> Zheng, Y. </u>, Xiong, Y., Liu, W., Zeng, W., Tang, W.\*, & Liu, C.\* (2024). **Machine learning-based medical imaging diagnosis in patients with temporomandibular disorders: a diagnostic test accuracy systematic review and meta-analysis**. _Clinical Oral Investigations_, 28(3), 186. <a href="https://doi.org/10.1007/s00784-024-05586-6"> [Paper] 
 
 * Long, Y. F., <u> Zheng, Y. H. </u>, Fu, Y. H., Si, J. R., Yue, Y., Liu, Y., & Xiong, X.\* (2024). **Pain symptoms are associated with two-point discrimination threshold in patients with temporomandibular disorders**. _Clinical Oral Investigations_, 28(5), 273. <a href="https://doi.org/10.1007/s00784-024-05667-6"> [Paper]
