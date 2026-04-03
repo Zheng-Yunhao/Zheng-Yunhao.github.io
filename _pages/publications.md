@@ -22,6 +22,8 @@ These works provide an overview of my research.
 
 ## Other Publications
 
+* Xiong, X.<sup>#</sup>, Yang, M.<sup>#</sup>, <u> Zheng, Y. </u>, Zhao, L., Li, K.\*, & Wang, J.\* (2026). **Multimodal Deep Learning-Based Screening of Degenerative Temporomandibular Joint Disease Using 2D Radiography: A Cost-Effective and Low-Radiation Approach**. _Oral diseases_, Advance online publication. <a href="https://doi.org/10.1111/odi.70268"> [Paper]</a>
+
 * Li, Y.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Tang, B., Shi, Y., Ren, J., You, M., & Liu, L.\* (2026). **Why was the concordance rate of imaging and clinical diagnosis in cemento-osseous dysplasia low? A retrospective study of 55 cases**. _BMC Oral Health_, Advance online publication. <a href="https://doi.org/10.1186/s12903-026-07937-z"> [Paper]</a>
 
 * Yap, A. U., <u> Zheng, Y. </u>, Luo, F., Liu, T., Li, Y., Liu, Y., Zhou, X., & Xiong, X.\* (2025). **Insights Into Oral Behaviours Among Temporomandibular Disorder Patients: Associations With Psychological Distress, Sleep Propensity and Jaw Function**. _Journal of Oral Rehabilitation_, 52(12), 2228–2239. <a href="https://doi.org/10.1111/joor.14028"> [Paper]</a>
