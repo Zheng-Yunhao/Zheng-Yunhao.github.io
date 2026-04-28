@@ -16,7 +16,7 @@ These works provide an overview of my research.
 
 * Hao, R.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Ma, Y., & Xiong, X.* (2026). **Robust oriented object detection for posterior teeth in mixed dentition**. _Scientific Reports_, Advance online publication. <a href="https://doi.org/10.1038/s41598-026-50297-5"> [Paper]</a>
 
-* Cheng, L.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Weng, Y., Yi, Y., Zhou, X., Jiang, N.\*, & Xiong, X.\* (2024). **Abstracts of randomized controlled trials in splint therapy for temporomandibular disorders: Reporting quality and spin**. _Journal of Oral Rehabilitation_, 51(11), 2278–2288.  <a href="https://doi.org/10.1111/joor.13824"> [Paper]</a>
+* Zhang, Q., <u> Zheng, Y. </u>\*, & Wang, J.\* (2026). H**igh-Fidelity Synthesis of Temporomandibular Joint Cone-Beam Computed Tomography Images via Latent Diffusion Models**. _Journal of Clinical Medicine_, 15(9), 3344. <a href=" https://doi.org/10.3390/jcm15093344"> [Paper]</a>
 
 * <u> Zheng, Y. </u>, Zhu, R., Xiao, C., Cheng, Q., Long, Y., Zhou, X., Zhang, S., Wang, J., & Xiong, X.* (2023). **Age and Gender, but Not Pain are Associated with Pressure Pain Thresholds in Patients with Temporomandibular Disorders: A Cross-Sectional Study**. _Journal of Pain Research_, 16, 2205–2216. <a href="https://doi.org/10.2147/JPR.S414276"> [Paper]</a>
 
@@ -39,6 +39,8 @@ These works provide an overview of my research.
 * Wang, T., <u> Zheng, Y. </u>, Sun, Y., Wei, N., Hao, L., Yue, Y.\*, & Xiong, X.\* (2025). **Education moderates the association between self-rated oral health and oral health-related quality of life**. _Clinical Oral Investigations_, 29(6), 318.  <a href="https://doi.org/10.1007/s00784-025-06395-1"> [Paper]</a>
 
 * Yap, A. U., <u> Zheng, Y. </u>, Liu, T., Li, Y., Liu, Y., Zhou, X., Wang, J., & Xiong, X.* (2025). **General and Health Anxiety in Temporomandibular Disorders: Correlates With Depression, Pain Intensity, Sleep Propensity, Oral Behaviours, Jaw Function, and Oral Health-Related Quality of Life.** _Journal of Oral Rehabilitation_, 52(10), 1619–1628. <a href="https://doi.org/10.1111/joor.14023"> [Paper]</a>
+
+* Cheng, L.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Weng, Y., Yi, Y., Zhou, X., Jiang, N.\*, & Xiong, X.\* (2024). **Abstracts of randomized controlled trials in splint therapy for temporomandibular disorders: Reporting quality and spin**. _Journal of Oral Rehabilitation_, 51(11), 2278–2288.  <a href="https://doi.org/10.1111/joor.13824"> [Paper]</a>
 
 * Zhang, Y.<sup>#</sup>, Zhu, T.<sup>#</sup>, <u> Zheng, Y. </u>, Xiong, Y., Liu, W., Zeng, W., Tang, W.\*, & Liu, C.\* (2024). **Machine learning-based medical imaging diagnosis in patients with temporomandibular disorders: a diagnostic test accuracy systematic review and meta-analysis**. _Clinical Oral Investigations_, 28(3), 186. <a href="https://doi.org/10.1007/s00784-024-05586-6"> [Paper] 
 
