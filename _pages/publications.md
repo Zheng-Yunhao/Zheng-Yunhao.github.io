@@ -16,7 +16,7 @@ These works provide an overview of my research.
 
 * Hao, R.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Ma, Y., & Xiong, X.* (2026). **Robust oriented object detection for posterior teeth in mixed dentition**. _Scientific Reports_, Advance online publication. <a href="https://doi.org/10.1038/s41598-026-50297-5"> [Paper]</a>
 
-* Zhang, Q., <u> Zheng, Y. </u>\*, & Wang, J.\* (2026). H**igh-Fidelity Synthesis of Temporomandibular Joint Cone-Beam Computed Tomography Images via Latent Diffusion Models**. _Journal of Clinical Medicine_, 15(9), 3344. <a href=" https://doi.org/10.3390/jcm15093344"> [Paper]</a>
+* Zhang, Q., <u> Zheng, Y. </u>\*, & Wang, J.\* (2026). **High-Fidelity Synthesis of Temporomandibular Joint Cone-Beam Computed Tomography Images via Latent Diffusion Models**. _Journal of Clinical Medicine_, 15(9), 3344. <a href=" https://doi.org/10.3390/jcm15093344"> [Paper]</a>
 
 * <u> Zheng, Y. </u>, Zhu, R., Xiao, C., Cheng, Q., Long, Y., Zhou, X., Zhang, S., Wang, J., & Xiong, X.* (2023). **Age and Gender, but Not Pain are Associated with Pressure Pain Thresholds in Patients with Temporomandibular Disorders: A Cross-Sectional Study**. _Journal of Pain Research_, 16, 2205–2216. <a href="https://doi.org/10.2147/JPR.S414276"> [Paper]</a>
 
