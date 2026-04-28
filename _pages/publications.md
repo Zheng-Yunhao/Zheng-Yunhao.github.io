@@ -14,7 +14,7 @@ These works provide an overview of my research.
 
 * Wu, X.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, He, C., Liu, Y., Cheng, Q., Xiong, X., & Wang, J.* (2025). **Application of Machine Learning in the Diagnosis of Temporomandibular Disorders: An Overview.** _Oral Diseases_, 31(7), 1964–1972. <a href="https://doi.org/10.1111/odi.15300"> [Paper]</a>
 
-* Yap, A. U.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Yang, M., Liu, T., Li, Y., Liu, Y., Zhou, X., & Xiong, X.* (2025). **Psychosocial and behavioral factors linked to low oral health related quality of life in young Chinese temporomandibular disorder patients**. _Scientific Reports_, 15(1), 24926. <a href="https://doi.org/10.1038/s41598-025-10222-8"> [Paper]</a>
+* Hao, R.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Ma, Y., & Xiong, X.* (2026). **Robust oriented object detection for posterior teeth in mixed dentition**. _Scientific Reports_, Advance online publication. <a href="https://doi.org/10.1038/s41598-026-50297-5"> [Paper]</a>
 
 * Cheng, L.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Weng, Y., Yi, Y., Zhou, X., Jiang, N.\*, & Xiong, X.\* (2024). **Abstracts of randomized controlled trials in splint therapy for temporomandibular disorders: Reporting quality and spin**. _Journal of Oral Rehabilitation_, 51(11), 2278–2288.  <a href="https://doi.org/10.1111/joor.13824"> [Paper]</a>
 
@@ -22,11 +22,13 @@ These works provide an overview of my research.
 
 ## Other Publications
 
-* Xiong, X.<sup>#</sup>, Yang, M.<sup>#</sup>, <u> Zheng, Y. </u>, Zhao, L., Li, K.\*, & Wang, J.\* (2026). **Multimodal Deep Learning-Based Screening of Degenerative Temporomandibular Joint Disease Using 2D Radiography: A Cost-Effective and Low-Radiation Approach**. _Oral diseases_, Advance online publication. <a href="https://doi.org/10.1111/odi.70268"> [Paper]</a>
+* Xiong, X.<sup>#</sup>, Yang, M.<sup>#</sup>, <u> Zheng, Y. </u>, Zhao, L., Li, K.\*, & Wang, J.\* (2026). **Multimodal Deep Learning-Based Screening of Degenerative Temporomandibular Joint Disease Using 2D Radiography: A Cost-Effective and Low-Radiation Approach**. _Oral Diseases_, Advance online publication. <a href="https://doi.org/10.1111/odi.70268"> [Paper]</a>
 
 * Li, Y.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Tang, B., Shi, Y., Ren, J., You, M., & Liu, L.\* (2026). **Why was the concordance rate of imaging and clinical diagnosis in cemento-osseous dysplasia low? A retrospective study of 55 cases**. _BMC Oral Health_, Advance online publication. <a href="https://doi.org/10.1186/s12903-026-07937-z"> [Paper]</a>
 
 * Yap, A. U., <u> Zheng, Y. </u>, Luo, F., Liu, T., Li, Y., Liu, Y., Zhou, X., & Xiong, X.\* (2025). **Insights Into Oral Behaviours Among Temporomandibular Disorder Patients: Associations With Psychological Distress, Sleep Propensity and Jaw Function**. _Journal of Oral Rehabilitation_, 52(12), 2228–2239. <a href="https://doi.org/10.1111/joor.14028"> [Paper]</a>
+
+* Yap, A. U.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Yang, M., Liu, T., Li, Y., Liu, Y., Zhou, X., & Xiong, X.* (2025). **Psychosocial and behavioral factors linked to low oral health related quality of life in young Chinese temporomandibular disorder patients**. _Scientific Reports_, 15(1), 24926. <a href="https://doi.org/10.1038/s41598-025-10222-8"> [Paper]</a>
 
 * Wang, J., Zhong, Y., <u> Zheng, Y. </u>, Long, Y., Luo, F., Weng, Y., Xiong, X.\*, & Fang, S.\* (2025). **Association Between Number of Temporomandibular Disorders Symptoms and Oral Health Quality of Life: A Cross-Sectional Study in a Community-Based Population**. _Journal of Oral Rehabilitation_, 52(11), 2000–2009.  <a href="https://doi.org/10.1111/joor.70004"> [Paper]</a>
 
