@@ -24,7 +24,7 @@ These works provide an overview of my research.
 
 * Xiong, X.<sup>#</sup>, Yang, M.<sup>#</sup>, <u> Zheng, Y. </u>, Zhao, L., Li, K.\*, & Wang, J.\* (2026). **Multimodal Deep Learning-Based Screening of Degenerative Temporomandibular Joint Disease Using 2D Radiography: A Cost-Effective and Low-Radiation Approach**. _Oral Diseases_, Advance online publication. <a href="https://doi.org/10.1111/odi.70268"> [Paper]</a>
 
-* Li, Y.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Tang, B., Shi, Y., Ren, J., You, M., & Liu, L.\* (2026). **Why was the concordance rate of imaging and clinical diagnosis in cemento-osseous dysplasia low? A retrospective study of 55 cases**. _BMC Oral Health_, Advance online publication. <a href="https://doi.org/10.1186/s12903-026-07937-z"> [Paper]</a>
+* Li, Y.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Tang, B., Shi, Y., Ren, J., You, M., & Liu, L.\* (2026). **Why was the concordance rate of imaging and clinical diagnosis in cemento-osseous dysplasia low? A retrospective study of 55 cases**. _BMC Oral Health_, 26(1), 537. <a href="https://doi.org/10.1186/s12903-026-07937-z"> [Paper]</a>
 
 * Yap, A. U., <u> Zheng, Y. </u>, Luo, F., Liu, T., Li, Y., Liu, Y., Zhou, X., & Xiong, X.\* (2025). **Insights Into Oral Behaviours Among Temporomandibular Disorder Patients: Associations With Psychological Distress, Sleep Propensity and Jaw Function**. _Journal of Oral Rehabilitation_, 52(12), 2228–2239. <a href="https://doi.org/10.1111/joor.14028"> [Paper]</a>
 
@@ -34,7 +34,7 @@ These works provide an overview of my research.
 
 * Yap, A. U.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Liu, T., Li, Y., Wo, P. K., Du, S.\*, & Xiong, X.\* (2025). **Impact of comorbid depression and anxiety on temporomandibular disorders related pain, sleep, function, behaviors, and quality of life.** _Scientific Reports_, 15(1), 35620. <a href="https://doi.org/10.1038/s41598-025-19524-3"> [Paper]</a>
 
-* Yap, A. U.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Li, H., Wo, P. K., & Xiong, X.* (2025). **Psychometric properties of the four-dimension impact framework for assessing temporomandibular disorders.** _Cranio: The Journal of Craniomandibular Practice_, Advance online publication.  <a href="https://doi.org/10.1080/08869634.2025.2567111"> [Paper]</a>
+* Yap, A. U.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Li, H., Wo, P. K., & Xiong, X.* (2025). **Psychometric properties of the four-dimension impact framework for assessing temporomandibular disorders.** _Cranio: The Journal of Craniomandibular Practice_, 2026;44(3):529-540.  <a href="https://doi.org/10.1080/08869634.2025.2567111"> [Paper]</a>
 
 * Wang, T., <u> Zheng, Y. </u>, Sun, Y., Wei, N., Hao, L., Yue, Y.\*, & Xiong, X.\* (2025). **Education moderates the association between self-rated oral health and oral health-related quality of life**. _Clinical Oral Investigations_, 29(6), 318.  <a href="https://doi.org/10.1007/s00784-025-06395-1"> [Paper]</a>
 
