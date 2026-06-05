@@ -10,6 +10,8 @@ These works provide an overview of my research.
 
 ## Selected Publications
 
+* <u> Zheng, Y. </u>, Yap, A. U., Wong, H. L., Tao, W., Liu, C., Wang, J., & Xiong, X.* (2026). **Development and validation of the short form OHIP-TMD (SF-OHIP-TMD): A four-factor eight-item scale for assessing oral health impact in temporomandibular disorders.** _Clinical Oral Investigations_, 30(6), 277. <a href="https://doi.org/10.1007/s00784-026-06964-y"> [Paper]</a>
+
 * <u> Zheng, Y. </u><sup>#</sup>, Zhou, X.<sup>#</sup>, Huang, Y., Lu, J., Cheng, Q., Fan, P., & Xiong, X.* (2023). **Low income is associated with impaired jaw function via anxiety and depression in patients with temporomandibular disorders**. _Journal of Oral Rehabilitation_, 50(12), 1373–1381. <a href="https://doi.org/10.1111/joor.13579"> [Paper]</a>
 
 * Wu, X.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, He, C., Liu, Y., Cheng, Q., Xiong, X., & Wang, J.* (2025). **Application of Machine Learning in the Diagnosis of Temporomandibular Disorders: An Overview.** _Oral Diseases_, 31(7), 1964–1972. <a href="https://doi.org/10.1111/odi.15300"> [Paper]</a>
@@ -17,8 +19,6 @@ These works provide an overview of my research.
 * Hao, R.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Ma, Y., & Xiong, X.* (2026). **Robust oriented object detection for posterior teeth in mixed dentition**. _Scientific Reports_, Advance online publication. <a href="https://doi.org/10.1038/s41598-026-50297-5"> [Paper]</a>
 
 * Zhang, Q., <u> Zheng, Y. </u>\*, & Wang, J.\* (2026). **High-Fidelity Synthesis of Temporomandibular Joint Cone-Beam Computed Tomography Images via Latent Diffusion Models**. _Journal of Clinical Medicine_, 15(9), 3344. <a href="https://doi.org/10.3390/jcm15093344"> [Paper]</a>
-
-* <u> Zheng, Y. </u>, Zhu, R., Xiao, C., Cheng, Q., Long, Y., Zhou, X., Zhang, S., Wang, J., & Xiong, X.* (2023). **Age and Gender, but Not Pain are Associated with Pressure Pain Thresholds in Patients with Temporomandibular Disorders: A Cross-Sectional Study**. _Journal of Pain Research_, 16, 2205–2216. <a href="https://doi.org/10.2147/JPR.S414276"> [Paper]</a>
 
 ## Other Publications
 
@@ -45,5 +45,8 @@ These works provide an overview of my research.
 * Zhang, Y.<sup>#</sup>, Zhu, T.<sup>#</sup>, <u> Zheng, Y. </u>, Xiong, Y., Liu, W., Zeng, W., Tang, W.\*, & Liu, C.\* (2024). **Machine learning-based medical imaging diagnosis in patients with temporomandibular disorders: a diagnostic test accuracy systematic review and meta-analysis**. _Clinical Oral Investigations_, 28(3), 186. <a href="https://doi.org/10.1007/s00784-024-05586-6"> [Paper] 
 
 * Long, Y. F., <u> Zheng, Y. H. </u>, Fu, Y. H., Si, J. R., Yue, Y., Liu, Y., & Xiong, X.\* (2024). **Pain symptoms are associated with two-point discrimination threshold in patients with temporomandibular disorders**. _Clinical Oral Investigations_, 28(5), 273. <a href="https://doi.org/10.1007/s00784-024-05667-6"> [Paper]
+
+* <u> Zheng, Y. </u>, Zhu, R., Xiao, C., Cheng, Q., Long, Y., Zhou, X., Zhang, S., Wang, J., & Xiong, X.* (2023). **Age and Gender, but Not Pain are Associated with Pressure Pain Thresholds in Patients with Temporomandibular Disorders: A Cross-Sectional Study**. _Journal of Pain Research_, 16, 2205–2216. <a href="https://doi.org/10.2147/JPR.S414276"> [Paper]</a>
+
 
 * Zhu, R., <u> Zheng, Y. H. </u>, Zhang, Z. H., Fan, P. D., Wang, J., & Xiong, X.* (2022). **Development of a new category system for the profile morphology of temporomandibular disorders patients based on cephalograms using cluster analysis.** _Frontiers in Public Health_, 10, 1045815. <a href="https://doi.org/10.3389/fpubh.2022.1045815"> [Paper]
