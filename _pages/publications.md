@@ -22,6 +22,8 @@ These works provide an overview of my research.
 
 ## Other Publications
 
+* Cheng, L.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Chen, X., Wu, J., Pan, Y., Xiong, X.\*, & Ye, Z.\* (2026). **The Level of Smartphone Addiction and Its Relationship to High Blood Pressure Among Middle-Aged and Elderly People in Rural Areas of China.** _Nature and Science of Sleep_, Volume 18, 1-11. <a href="https://doi.org/10.2147/NSS.S560764"> [Paper]</a>
+
 * Xiong, X.<sup>#</sup>, Yang, M.<sup>#</sup>, <u> Zheng, Y. </u>, Zhao, L., Li, K.\*, & Wang, J.\* (2026). **Multimodal Deep Learning-Based Screening of Degenerative Temporomandibular Joint Disease Using 2D Radiography: A Cost-Effective and Low-Radiation Approach**. _Oral Diseases_, Advance online publication. <a href="https://doi.org/10.1111/odi.70268"> [Paper]</a>
 
 * Li, Y.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Tang, B., Shi, Y., Ren, J., You, M., & Liu, L.\* (2026). **Why was the concordance rate of imaging and clinical diagnosis in cemento-osseous dysplasia low? A retrospective study of 55 cases**. _BMC Oral Health_, 26(1), 537. <a href="https://doi.org/10.1186/s12903-026-07937-z"> [Paper]</a>
