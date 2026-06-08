@@ -10,7 +10,7 @@ These works provide an overview of my research.
 
 ## Selected Publications
 
-* <u> Zheng, Y. </u>, Yap, A. U., Wong, H. L., Tao, W., Liu, C., Wang, J., & Xiong, X.* (2026). **Development and validation of the short form OHIP-TMD (SF-OHIP-TMD): A four-factor eight-item scale for assessing oral health impact in temporomandibular disorders.** _Clinical Oral Investigations_, 30(6), 277. <a href="https://doi.org/10.1007/s00784-026-06964-y"> [Paper]</a>  [Toolkit](/toolkit/sf-ohip-tmd/)
+* <u> Zheng, Y. </u>, Yap, A. U., Wong, H. L., Tao, W., Liu, C., Wang, J., & Xiong, X.* (2026). **Development and validation of the short form OHIP-TMD (SF-OHIP-TMD): A four-factor eight-item scale for assessing oral health impact in temporomandibular disorders.** _Clinical Oral Investigations_, 30(6), 277. <a href="https://doi.org/10.1007/s00784-026-06964-y"> [Paper]</a> [[Toolkit]](/toolkit/sf-ohip-tmd/)
 
 * <u> Zheng, Y. </u><sup>#</sup>, Zhou, X.<sup>#</sup>, Huang, Y., Lu, J., Cheng, Q., Fan, P., & Xiong, X.* (2023). **Low income is associated with impaired jaw function via anxiety and depression in patients with temporomandibular disorders**. _Journal of Oral Rehabilitation_, 50(12), 1373–1381. <a href="https://doi.org/10.1111/joor.13579"> [Paper]</a>
 
