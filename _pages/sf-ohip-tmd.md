@@ -29,7 +29,13 @@ SF-OHIP-TMD was designed to reduce respondent burden while retaining clinically 
 
 ## SF-OHIP-TMD Items and Scoring
 
-The SF-OHIP-TMD consists of eight items selected from the original OHIP-TMD. Each item is rated using the standard OHIP response scale:
+The SF-OHIP-TMD consists of eight items selected from the OHIP-TMD. It covers four domains: Psychological Impact, Social Impact, Oral Function, and Orofacial Pain.
+
+### Administration instruction
+
+Over the last month, how often have you experienced the following impacts because of problems with your jaws, teeth, or mouth?
+
+Each item is rated using the standard OHIP response scale:
 
 | Response option | Score |
 |---|---:|
@@ -39,41 +45,114 @@ The SF-OHIP-TMD consists of eight items selected from the original OHIP-TMD. Eac
 | Fairly often | 3 |
 | Very often | 4 |
 
-Respondents are asked to report how often they experienced each impact because of problems with their jaws, teeth, or mouth.
+### Item set
 
-| Domain | OHIP-TMD item no. | Item wording |
-|---|---:|---|
-| Psychological Impact | Item 15 | Have you been upset because of problems with your jaws, teeth, or mouth? |
-| Psychological Impact | Item 17 | Have you felt depressed because of problems with your jaws, teeth, or mouth? |
-| Social Impact | Item 20 | Have you had difficulty doing your usual jobs because of problems with your jaws, teeth, or mouth? |
-| Social Impact | Item 22 | Have you been unable to work to your full capacity because of problems with your jaws, teeth, or mouth? |
-| Oral Function | Item 1 | Have you had difficulty chewing any foods because of problems with your jaws, teeth, or mouth? |
-| Oral Function | Item 6 | Have you found it uncomfortable to eat any foods because of problems with your jaws, teeth, or mouth? |
-| Orofacial Pain | Item 5 | Have you had headaches because of problems with your jaws, teeth, or mouth? |
-| Orofacial Pain | Item 7 | Have you felt talking was painful because of problems with your jaws, teeth, or mouth? |
+<table>
+  <thead>
+    <tr>
+      <th>Domain</th>
+      <th>SF-OHIP-TMD item</th>
+      <th>Item wording</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2"><strong>Psychological Impact</strong></td>
+      <td>Item 1</td>
+      <td>Have you been upset because of problems with your jaws, teeth, or mouth?</td>
+    </tr>
+    <tr>
+      <td>Item 2</td>
+      <td>Have you felt depressed because of problems with your jaws, teeth, or mouth?</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Social Impact</strong></td>
+      <td>Item 3</td>
+      <td>Have you had difficulty doing your usual jobs because of problems with your jaws, teeth, or mouth?</td>
+    </tr>
+    <tr>
+      <td>Item 4</td>
+      <td>Have you been unable to work to your full capacity because of problems with your jaws, teeth, or mouth?</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Oral Function</strong></td>
+      <td>Item 5</td>
+      <td>Have you had difficulty chewing any foods because of problems with your jaws, teeth, or mouth?</td>
+    </tr>
+    <tr>
+      <td>Item 6</td>
+      <td>Have you found it uncomfortable to eat any foods because of problems with your jaws, teeth, or mouth?</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Orofacial Pain</strong></td>
+      <td>Item 7</td>
+      <td>Have you had headaches because of problems with your jaws, teeth, or mouth?</td>
+    </tr>
+    <tr>
+      <td>Item 8</td>
+      <td>Have you felt talking was painful because of problems with your jaws, teeth, or mouth?</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Scoring
 
-The total score is obtained by summing the eight item scores:
+Each item is scored from 0 to 4:
 
-$$
-\text{SF-OHIP-TMD total score}=\sum_{j=1}^{8}X_j.
-$$
+| Response option | Score |
+|---|---:|
+| Never | 0 |
+| Hardly ever | 1 |
+| Occasionally | 2 |
+| Fairly often | 3 |
+| Very often | 4 |
+
+The SF-OHIP-TMD total score is calculated by adding the scores of all eight items.
 
 The total score ranges from 0 to 32, with higher scores indicating greater TMD-related oral health impact.
 
-Each domain contains two items, so each domain score ranges from 0 to 8:
+Each domain contains two items. The domain score is calculated by adding the scores of the two items within that domain, so each domain score ranges from 0 to 8:
 
-| Domain | Items | Score range |
-|---|---|---:|
-| Psychological Impact | Items 15 and 17 | 0–8 |
-| Social Impact | Items 20 and 22 | 0–8 |
-| Oral Function | Items 1 and 6 | 0–8 |
-| Orofacial Pain | Items 5 and 7 | 0–8 |
+<table>
+  <thead>
+    <tr>
+      <th>Domain</th>
+      <th>Items</th>
+      <th>How to calculate</th>
+      <th>Score range</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Psychological Impact</strong></td>
+      <td>Items 1 and 2</td>
+      <td>Add the scores of Items 1 and 2</td>
+      <td>0–8</td>
+    </tr>
+    <tr>
+      <td><strong>Social Impact</strong></td>
+      <td>Items 3 and 4</td>
+      <td>Add the scores of Items 3 and 4</td>
+      <td>0–8</td>
+    </tr>
+    <tr>
+      <td><strong>Oral Function</strong></td>
+      <td>Items 5 and 6</td>
+      <td>Add the scores of Items 5 and 6</td>
+      <td>0–8</td>
+    </tr>
+    <tr>
+      <td><strong>Orofacial Pain</strong></td>
+      <td>Items 7 and 8</td>
+      <td>Add the scores of Items 7 and 8</td>
+      <td>0–8</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Suggested reporting format
 
-When using the SF-OHIP-TMD in research or clinical reports, we recommend reporting both the total score and the four domain scores:
+When reporting SF-OHIP-TMD results, we recommend presenting both the total score and the four domain scores:
 
 | Score | Range |
 |---|---:|
@@ -84,6 +163,10 @@ When using the SF-OHIP-TMD in research or clinical reports, we recommend reporti
 | Orofacial Pain score | 0–8 |
 
 The total score provides a global index of TMD-specific oral health impact, whereas the domain scores help characterize the main source of patient burden.
+
+### Use notice
+
+The SF-OHIP-TMD is derived from the OHIP-TMD. Users should cite the original OHIP-TMD publication and the SF-OHIP-TMD validation study when using this short form.
 
 ## Citation
 
