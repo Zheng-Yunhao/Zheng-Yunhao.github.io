@@ -11,7 +11,7 @@ This page collects research tools, scales, statistical resources, and implementa
 
 ## SF-OHIP-TMD
 
-**SF-OHIP-TMD** is an 8-item, four-factor short-form patient-reported outcome measure for assessing oral health impact in temporomandibular disorders.
+SF-OHIP-TMD is an 8-item, four-factor short-form patient-reported outcome measure for assessing oral health impact in temporomandibular disorders.
 
 It was developed to provide a brief but multidimensional assessment of TMD-specific oral health-related quality of life, covering psychological impact, social impact, oral function, and orofacial pain.
 
