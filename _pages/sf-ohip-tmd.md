@@ -97,16 +97,6 @@ Each item is rated using the standard OHIP response scale:
 
 ### Scoring
 
-Each item is scored from 0 to 4:
-
-| Response option | Score |
-|---|---:|
-| Never | 0 |
-| Hardly ever | 1 |
-| Occasionally | 2 |
-| Fairly often | 3 |
-| Very often | 4 |
-
 The SF-OHIP-TMD total score is calculated by adding the scores of all eight items.
 
 The total score ranges from 0 to 32, with higher scores indicating greater TMD-related oral health impact.
