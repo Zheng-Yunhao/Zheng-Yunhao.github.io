@@ -5,13 +5,11 @@ permalink: /toolkit/
 author_profile: true
 ---
 
-# Toolkit
-
 This page collects research tools, scales, statistical resources, and implementation materials developed from my research.
 
-## Patient-reported outcome measures
+# Patient-reported outcome measures
 
-### SF-OHIP-TMD
+# SF-OHIP-TMD
 
 **SF-OHIP-TMD** is an 8-item, four-factor short-form patient-reported outcome measure for assessing oral health impact in temporomandibular disorders.
 
