@@ -154,10 +154,6 @@ When reporting SF-OHIP-TMD results, we recommend presenting both the total score
 
 The total score provides a global index of TMD-specific oral health impact, whereas the domain scores help characterize the main source of patient burden.
 
-### Use notice
-
-The SF-OHIP-TMD is derived from the OHIP-TMD. Users should cite the original OHIP-TMD publication and the SF-OHIP-TMD validation study when using this short form.
-
 ## Citation
 
 Zheng, Y., Yap, A. U., Wong, H. L., Tao, W., Liu, C., Wang, J., & Xiong, X. (2026). **Development and validation of the short form OHIP-TMD (SF-OHIP-TMD): A four-factor eight-item scale for assessing oral health impact in temporomandibular disorders.** _Clinical Oral Investigations_, 30(6), 277. https://doi.org/10.1007/s00784-026-06964-y
