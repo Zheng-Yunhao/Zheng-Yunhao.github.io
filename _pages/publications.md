@@ -12,9 +12,9 @@ These works provide an overview of my research.
 
 * <u> Zheng, Y. </u>, Yap, A. U., Wong, H. L., Tao, W., Liu, C., Wang, J., & Xiong, X.* (2026). **Development and validation of the short form OHIP-TMD (SF-OHIP-TMD): A four-factor eight-item scale for assessing oral health impact in temporomandibular disorders.** _Clinical Oral Investigations_, 30(6), 277. <a href="https://doi.org/10.1007/s00784-026-06964-y"> [Paper]</a> [[Toolkit]](/toolkit/sf-ohip-tmd/)
 
-* <u> Zheng, Y. </u><sup>#</sup>, Zhou, X.<sup>#</sup>, Huang, Y., Lu, J., Cheng, Q., Fan, P., & Xiong, X.* (2023). **Low income is associated with impaired jaw function via anxiety and depression in patients with temporomandibular disorders**. _Journal of Oral Rehabilitation_, 50(12), 1373–1381. <a href="https://doi.org/10.1111/joor.13579"> [Paper]</a>
+* <u> Zheng, Y. </u>, Yap, A. U., Li, N., Zeng, S., Yang, M., Liu, C., Wang, J., & Xiong, X.* (2026). **Revealing the Latent Structure of the Oral Behaviours Checklist: Integrating Bayesian Factor Analysis and Network Analysis.** _Journal of Oral Rehabilitation_, Advance online publication. <a href="https://doi.org/10.1111/joor.70239"> [Paper]</a>
 
-* Wu, X.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, He, C., Liu, Y., Cheng, Q., Xiong, X., & Wang, J.* (2025). **Application of Machine Learning in the Diagnosis of Temporomandibular Disorders: An Overview.** _Oral Diseases_, 31(7), 1964–1972. <a href="https://doi.org/10.1111/odi.15300"> [Paper]</a>
+* <u> Zheng, Y. </u><sup>#</sup>, Zhou, X.<sup>#</sup>, Huang, Y., Lu, J., Cheng, Q., Fan, P., & Xiong, X.* (2023). **Low income is associated with impaired jaw function via anxiety and depression in patients with temporomandibular disorders**. _Journal of Oral Rehabilitation_, 50(12), 1373–1381. <a href="https://doi.org/10.1111/joor.13579"> [Paper]</a>
 
 * Hao, R.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Ma, Y., & Xiong, X.* (2026). **Robust oriented object detection for posterior teeth in mixed dentition**. _Scientific Reports_, Advance online publication. <a href="https://doi.org/10.1038/s41598-026-50297-5"> [Paper]</a>
 
@@ -27,6 +27,8 @@ These works provide an overview of my research.
 * Xiong, X.<sup>#</sup>, Yang, M.<sup>#</sup>, <u> Zheng, Y. </u>, Zhao, L., Li, K.\*, & Wang, J.\* (2026). **Multimodal Deep Learning-Based Screening of Degenerative Temporomandibular Joint Disease Using 2D Radiography: A Cost-Effective and Low-Radiation Approach**. _Oral Diseases_, Advance online publication. <a href="https://doi.org/10.1111/odi.70268"> [Paper]</a>
 
 * Li, Y.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, Tang, B., Shi, Y., Ren, J., You, M., & Liu, L.\* (2026). **Why was the concordance rate of imaging and clinical diagnosis in cemento-osseous dysplasia low? A retrospective study of 55 cases**. _BMC Oral Health_, 26(1), 537. <a href="https://doi.org/10.1186/s12903-026-07937-z"> [Paper]</a>
+
+* Wu, X.<sup>#</sup>, <u> Zheng, Y. </u><sup>#</sup>, He, C., Liu, Y., Cheng, Q., Xiong, X., & Wang, J.* (2025). **Application of Machine Learning in the Diagnosis of Temporomandibular Disorders: An Overview.** _Oral Diseases_, 31(7), 1964–1972. <a href="https://doi.org/10.1111/odi.15300"> [Paper]</a>
 
 * Yap, A. U., <u> Zheng, Y. </u>, Luo, F., Liu, T., Li, Y., Liu, Y., Zhou, X., & Xiong, X.\* (2025). **Insights Into Oral Behaviours Among Temporomandibular Disorder Patients: Associations With Psychological Distress, Sleep Propensity and Jaw Function**. _Journal of Oral Rehabilitation_, 52(12), 2228–2239. <a href="https://doi.org/10.1111/joor.14028"> [Paper]</a>
 
