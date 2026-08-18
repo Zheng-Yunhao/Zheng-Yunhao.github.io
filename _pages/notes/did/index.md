@@ -8,8 +8,6 @@ noindex: true
 toc: false
 ---
 
-# Difference-in-Differences
-
 Seminar notes and working notes on Difference-in-Differences.
 
 ## Assumptions
