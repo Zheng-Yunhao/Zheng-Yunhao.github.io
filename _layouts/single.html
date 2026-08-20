@@ -93,12 +93,6 @@ layout: default
     {% endif %}
   </article>
 
-  {% if page.toc %}
-  <aside class="note-toc" aria-label="Table of contents">
-    <div class="note-toc__title">目录</div>
-    <nav class="js-toc"></nav>
-  </aside>
-  {% endif %}
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
@@ -114,3 +108,11 @@ layout: default
     </div>
   {% endif %}
 </div>
+
+
+  {% if page.toc %}
+  <aside class="note-toc" aria-label="Table of contents">
+    <div class="note-toc__title">目录</div>
+    <nav class="js-toc"></nav>
+  </aside>
+  {% endif %}
