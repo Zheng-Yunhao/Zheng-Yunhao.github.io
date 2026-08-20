@@ -1,7 +1,7 @@
 ---
 title: "DiD 的无预期假设"
 layout: single
-permalink: /notes/did/no-anticipation
+permalink: /notes/did/no-anticipation/
 author_profile: false
 sitemap: false
 noindex: true
