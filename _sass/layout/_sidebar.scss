@@ -76,6 +76,15 @@
   }
 }
 
+.sidebar__right.toc-sticky {
+  @include breakpoint($large) {
+    position: sticky;
+    top: calc(#{$masthead-height} + 1em);
+    max-height: calc(100vh - #{$masthead-height} - 2em);
+    overflow-y: auto;
+  }
+}
+
 /*
    Author profile and links
    ========================================================================== */
