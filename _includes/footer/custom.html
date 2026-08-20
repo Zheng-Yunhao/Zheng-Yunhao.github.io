@@ -29,7 +29,7 @@
 </script>
 
 {% if page.toc %}
-<!-- Tocbot -->
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.32.2/tocbot.min.js"></script>
 
 <script>
@@ -45,19 +45,26 @@ document.addEventListener("DOMContentLoaded", function () {
   tocbot.init({
     tocSelector: ".js-toc",
     contentSelector: ".js-toc-content",
-
     headingSelector: "h2, h3",
-
     collapseDepth: 6,
-
     scrollSmooth: true,
     headingsOffset: 80,
     scrollSmoothOffset: -80,
-
-    hasInnerContainers: true
+    hasInnerContainers: true,
+    includeHtml: false
   });
+
+  /* Render LaTeX inside Tocbot */
+  if (window.MathJax && MathJax.startup && MathJax.startup.promise) {
+    MathJax.startup.promise.then(function () {
+      return MathJax.typesetPromise([
+        document.querySelector(".js-toc")
+      ]);
+    });
+  }
 });
 </script>
+
 {% endif %}
 
 <!-- end custom footer snippets -->
