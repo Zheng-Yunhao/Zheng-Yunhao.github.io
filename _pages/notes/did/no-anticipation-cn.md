@@ -3,11 +3,10 @@ title: "DiD 的无预期假设"
 layout: single
 permalink: /notes/did/no-anticipation/
 author_profile: true
+toc: true
 sitemap: false
 noindex: true
 ---
-
-{% include toc title="目录" %}
 
 双重差分 (difference-in-differences, DiD) 最核心的两个识别假设是**平行趋势假设 (parallel-trends assumption, PT)** 和**无预期假设 (no-anticipation assumption, NA)**. 平行趋势负责识别未处理结局的变化, 无预期负责保证处理前观测结局仍然是未处理结局. 简单说:
 
