@@ -28,4 +28,36 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
+{% if page.toc %}
+<!-- Tocbot -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.32.2/tocbot.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  if (
+    typeof tocbot === "undefined" ||
+    !document.querySelector(".js-toc") ||
+    !document.querySelector(".js-toc-content")
+  ) {
+    return;
+  }
+
+  tocbot.init({
+    tocSelector: ".js-toc",
+    contentSelector: ".js-toc-content",
+
+    headingSelector: "h2, h3",
+
+    collapseDepth: 6,
+
+    scrollSmooth: true,
+    headingsOffset: 80,
+    scrollSmoothOffset: -80,
+
+    hasInnerContainers: true
+  });
+});
+</script>
+{% endif %}
+
 <!-- end custom footer snippets -->
