@@ -41,3 +41,78 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==========================================================================
+   Tocbot sidebar for long notes
+   ========================================================================== */
+
+.note-toc {
+  display: none;
+}
+
+/* Wide desktop: floating TOC on the right */
+@media screen and (min-width: 1500px) {
+  .note-toc {
+    display: block;
+    position: fixed;
+
+    top: 90px;
+    right: 28px;
+
+    width: 250px;
+    max-height: calc(100vh - 120px);
+
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    padding-left: 16px;
+    border-left: 1px solid var(--global-border-color);
+
+    font-size: 0.78rem;
+    line-height: 1.45;
+
+    z-index: 5;
+  }
+
+  .note-toc__title {
+    margin-bottom: 0.75rem;
+
+    color: var(--global-text-color);
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+
+  .note-toc .toc-list {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+  }
+
+  .note-toc .toc-list .toc-list {
+    padding-left: 1rem;
+  }
+
+  .note-toc .toc-link {
+    display: block;
+
+    padding: 0.18rem 0;
+
+    color: var(--global-text-color-light);
+    text-decoration: none;
+
+    transition: color 0.15s ease;
+  }
+
+  .note-toc .toc-link:hover {
+    color: var(--global-link-color);
+  }
+
+  .note-toc .toc-link.is-active-link {
+    color: var(--global-link-color);
+    font-weight: 600;
+  }
+
+  .note-toc .is-active-link::before {
+    display: none;
+  }
+}
