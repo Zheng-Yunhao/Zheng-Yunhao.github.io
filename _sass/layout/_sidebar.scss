@@ -76,12 +76,27 @@
   }
 }
 
-.sidebar__right.toc-sticky {
+.sidebar__right.toc-floating {
   @include breakpoint($large) {
-    position: sticky;
-    top: calc(#{$masthead-height} + 1em);
-    max-height: calc(100vh - #{$masthead-height} - 2em);
-    overflow-y: auto;
+    float: none;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  @media screen and (min-width: 1500px) {
+    position: fixed;
+    top: calc(#{$masthead-height} + 1.5rem);
+    right: 2rem;
+
+    width: 260px;
+    margin: 0;
+
+    z-index: 10;
+
+    .toc {
+      max-height: calc(100vh - #{$masthead-height} - 3rem);
+      overflow-y: auto;
+    }
   }
 }
 
