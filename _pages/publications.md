@@ -110,3 +110,4 @@ These works provide an overview of my research.
 * Zhu, R., <u>Zheng, Y. H.</u>, Zhang, Z. H., Fan, P. D., Wang, J., Xiong, X.<sup>*</sup> (2022). <strong>Development of a new category system for the profile morphology of temporomandibular disorders patients based on cephalograms using cluster analysis.</strong> <em>Frontiers in Public Health</em>, 10, 1045815. <a href="https://doi.org/10.3389/fpubh.2022.1045815">[Paper]</a> <a href="https://pubs.yunhaozheng.top/request/21/">[Request PDF]</a>
 
 <!-- pubs-managed:end -->
+
