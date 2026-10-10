@@ -1,8 +1,10 @@
 ---
-layout: single
+layout: research
 title: "SF-OHIP-TMD"
 permalink: /toolkit/sf-ohip-tmd/
-author_profile: true
+author_profile: false
+page_kind: toolkit-page
+eyebrow: "Research into practice"
 excerpt: "An 8-item, four-factor patient-reported outcome measure for temporomandibular disorders."
 ---
 

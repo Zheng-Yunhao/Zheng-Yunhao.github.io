@@ -1,0 +1,54 @@
+{% assign publications_page = site.pages | where: "path", "_pages/publications.md" | first %}
+{% assign managed_content = publications_page.content | split: "<!-- pubs-managed:start -->" | last | split: "<!-- pubs-managed:end -->" | first %}
+{% assign selected_content = managed_content | split: "## Selected Publications" | last | split: "## Other Publications" | first %}
+{% assign total_papers = managed_content | split: "<strong>" | size | minus: 1 %}
+{% assign selected_papers = selected_content | split: "<strong>" | size | minus: 1 %}
+
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-copy">
+    <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Orthodontics · Biostatistics · AI</p>
+    <h1 id="hero-title">Yunhao Zheng<span class="name-period">.</span></h1>
+    <p class="hero-chinese" lang="zh">郑耘昊</p>
+    <p class="hero-statement">Clinical questions.<br><em>Quantitative answers.</em></p>
+    <p class="hero-description">Licensed dentist, orthodontic resident, and researcher at Sichuan University. Bringing clinical dentistry, biostatistics, and artificial intelligence together to build trustworthy health evidence.</p>
+    <div class="hero-links"><a class="button button-primary" href="{{ base_path }}/publications/">Explore publications <span aria-hidden="true">↗</span></a><a class="text-link" href="#research">My research <span aria-hidden="true">↓</span></a></div>
+  </div>
+  <div class="hero-visual">
+    <svg class="research-orbit" viewBox="0 0 500 500" fill="none" aria-hidden="true">
+      <defs><pattern id="orbit-grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="currentColor"/></pattern></defs>
+      <rect width="500" height="500" fill="url(#orbit-grid)" opacity=".25"/>
+      <g class="orbit-lines" stroke="currentColor"><circle cx="250" cy="250" r="220" opacity=".28"/><circle cx="250" cy="250" r="186" stroke-dasharray="3 12" opacity=".45"/><ellipse cx="250" cy="250" rx="233" ry="136" transform="rotate(-35 250 250)" opacity=".23"/><path d="M70 125 135 86 382 108 450 278 364 415 109 363 70 125ZM135 86 109 363M382 108 364 415" opacity=".15"/><g fill="currentColor" stroke="none"><circle cx="135" cy="86" r="4"/><circle cx="450" cy="278" r="3.5"/><circle cx="109" cy="363" r="3.5"/><circle cx="364" cy="415" r="4"/></g></g>
+    </svg>
+    <figure class="portrait-card"><img src="{{ base_path }}/images/{{ site.author.avatar }}" alt="Portrait of Yunhao Zheng" width="320" height="360" fetchpriority="high"><figcaption><span class="portrait-caption">West China School of Stomatology</span><span>Sichuan University</span></figcaption></figure>
+    <span class="orbit-label label-one">Clinical insight</span><span class="orbit-label label-two">Quantitative methods</span>
+    <span class="figure-note">CHENGDU, CHINA <span aria-hidden="true">/</span> 30.57° N · 104.07° E</span>
+  </div>
+</section>
+
+<div class="affiliation-strip"><span class="affiliation-mark" aria-hidden="true">✳</span><span>West China School / Hospital of Stomatology</span><span class="affiliation-separator" aria-hidden="true"></span><span>Sichuan University</span><a href="{{ site.author.orcid }}">ORCID <span aria-hidden="true">↗</span></a></div>
+
+<section class="about-section section" aria-labelledby="about-heading">
+  <div class="section-intro"><p class="eyebrow">01 / About</p><h2 id="about-heading">From clinical problems<br>to <em>trustworthy evidence.</em></h2></div>
+  <div class="about-copy"><p>I am a postgraduate student at the West China School/Hospital of Stomatology, Sichuan University, under the supervision of <strong>Professor Jun Wang</strong>. I received my Bachelor’s degree in Dental Medicine from Sichuan University in 2024.</p><p>During my graduate training, I have also received methodological training in biostatistics under the mentorship of <strong>Professor Xing Zhao</strong> in the Department of Epidemiology and Biostatistics at the West China School of Public Health.</p><p>My work develops statistical and machine-learning methods motivated by clinically important problems, with an emphasis on rigorous methods, responsible data practices, and interpretable, clinically meaningful evidence.</p></div>
+</section>
+
+<section class="research-section section" id="research" aria-labelledby="research-heading">
+  <div class="section-heading"><div><p class="eyebrow">02 / Research</p><h2 id="research-heading">Three connected <em>directions.</em></h2></div><p class="section-caption">Clinical questions guide the methods.<br>Methods strengthen the evidence.</p></div>
+  <div class="research-grid">
+    <article class="research-card" id="quantitative-health"><div class="card-topline"><span>01</span><svg viewBox="0 0 80 64" fill="none" aria-hidden="true"><path d="M9 52h62M13 54V9" stroke="currentColor" opacity=".25"/><path d="m19 43 12-7 12 3 13-20 12-8" stroke="currentColor" stroke-width="1.6"/ ><g fill="currentColor"><circle cx="19" cy="43" r="3"/><circle cx="31" cy="36" r="3"/><circle cx="43" cy="39" r="3"/><circle cx="56" cy="19" r="3"/><circle cx="68" cy="11" r="3"/></g></svg></div><h3>Quantitative oral<br>health science</h3><p>Clinical measurement, causal inference, diagnostic evaluation, risk prediction, and decision-making—grounded in substantive problems in oral healthcare.</p><div class="research-tags"><span>Biostatistics</span><span>Clinical measurement</span></div></article>
+    <article class="research-card" id="clinical-ai"><div class="card-topline"><span>02</span><svg viewBox="0 0 80 64" fill="none" stroke="currentColor" aria-hidden="true"><g opacity=".35"><path d="m16 16 25 7 24-10M16 16l25 31 24-34M16 48l25-25 24 27M16 48l25-1 24 3M41 23v24"/></g><g fill="var(--background)" stroke-width="1.6"><circle cx="16" cy="16" r="4"/><circle cx="16" cy="48" r="4"/><circle cx="41" cy="23" r="4"/><circle cx="41" cy="47" r="4"/><circle cx="65" cy="13" r="4"/><circle cx="65" cy="50" r="4"/></g></svg></div><h3>Artificial intelligence<br>for clinical dentistry</h3><p>Clinically grounded medical imaging, multimodal learning, and generative modeling for diagnosis, treatment planning, longitudinal monitoring, and digital workflows.</p><div class="research-tags"><span>Medical imaging</span><span>Multimodal learning</span></div></article>
+    <article class="research-card" id="real-world-evidence"><div class="card-topline"><span>03</span><svg viewBox="0 0 80 64" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="m11 22 29-14 29 14-29 14-29-14Z"/><path d="m11 33 29 14 29-14m-58 11 29 14 29-14" opacity=".5"/><path d="M40 8v28" opacity=".25"/></svg></div><h3>Real-world data &amp;<br>trustworthy evidence</h3><p>Responsible acquisition, governance, and integration of heterogeneous health data, including collaboration with the China Multi-Ethnic Cohort on longitudinal population research.</p><div class="research-tags"><span>Data governance</span><span>Population health</span></div></article>
+  </div>
+</section>
+
+<section class="selected-section section" aria-labelledby="selected-heading">
+  <div class="section-heading"><div><p class="eyebrow">03 / Selected work</p><h2 id="selected-heading">A closer look at<br><em>my research.</em></h2></div><a class="text-link" href="{{ base_path }}/publications/">All publications <span class="count-badge">{{ total_papers }}</span> <span aria-hidden="true">↗</span></a></div>
+  <div class="selected-publications publications-content">{{ selected_content | markdownify }}</div>
+  <p class="publication-legend"><sup>#</sup> Co-first author <span>·</span> <sup>*</sup> Corresponding author <span>·</span> My name is highlighted</p>
+</section>
+
+<section class="toolkit-feature" aria-labelledby="toolkit-heading"><div><p class="eyebrow">04 / Research into practice</p><h2 id="toolkit-heading">SF-OHIP-TMD<span class="toolkit-period">.</span></h2><p>A brief, multidimensional measure of oral health impact in temporomandibular disorders. Developed for clinical monitoring, research, and digital health assessment.</p><a class="button button-light" href="{{ base_path }}/toolkit/sf-ohip-tmd/">Explore the toolkit <span aria-hidden="true">↗</span></a></div><div class="toolkit-diagram" aria-label="Eight items across four domains"><div class="toolkit-stat"><strong>8</strong><span>items</span></div><span class="toolkit-stat-line" aria-hidden="true"></span><div class="toolkit-stat"><strong>4</strong><span>domains</span></div><div class="domain-list"><span>Psychological impact</span><span>Social impact</span><span>Oral function</span><span>Orofacial pain</span></div></div></section>
+
+<section class="news-section section" aria-labelledby="news-heading"><div class="section-heading"><div><p class="eyebrow">05 / Updates</p><h2 id="news-heading">Along the <em>way.</em></h2></div></div><div class="news-item"><time datetime="2025-12">DEC 2025</time><p>My first-authored paper, <a href="https://doi.org/10.1007/s00784-026-06964-y">“Development and Validation of the Short Form OHIP-TMD (SF-OHIP-TMD)”</a>, was accepted for an oral presentation at <strong>IADR 2026</strong>.</p><span aria-hidden="true">↗</span></div></section>
+
+<section class="contact-section section" aria-labelledby="contact-heading"><div><p class="eyebrow">Let's connect</p><h2 id="contact-heading">A shared question.<br><em>A new perspective.</em></h2><p>For research conversations and academic collaboration.</p></div><a class="contact-email" href="mailto:{{ site.author.email }}">{{ site.author.email }} <span aria-hidden="true">↗</span></a></section>
