@@ -1,10 +1,8 @@
 ---
-layout: research
+layout: archive
 title: "Toolkit"
 permalink: /toolkit/
-author_profile: false
-page_kind: toolkit-page
-eyebrow: "Research into practice"
+author_profile: true
 ---
 
 This page collects research tools, scales, statistical resources, and implementation materials developed from my research.

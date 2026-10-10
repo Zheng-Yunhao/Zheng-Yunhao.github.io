@@ -1,14 +1,12 @@
 ---
-layout: research
+layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: false
-page_kind: publications-page
-eyebrow: "Research output"
-description: "Selected work and the full publication record, from clinical oral health to quantitative methods and artificial intelligence."
+author_profile: true
 ---
+These works provide an overview of my research. 
 
-<sup>#</sup> Co-first author · <sup>*</sup> Corresponding author · My name is highlighted.
+( # indicates the co-first authors, * indicates the corresponding authors.)
 
 <!-- pubs-managed:start -->
 <link rel="stylesheet" href="https://pubs.yunhaozheng.top/static/core/public-request-modal.3e4491664c2b.css">

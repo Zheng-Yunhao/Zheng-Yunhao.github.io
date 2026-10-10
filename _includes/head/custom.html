@@ -22,3 +22,7 @@
 />
 {% endif %}
 <!-- end custom head snippets -->
+
+{% if page.url == "/" or page.url == "/publications/" or page.url == "/toolkit/" or page.url == "/toolkit/sf-ohip-tmd/" %}
+<link rel="stylesheet" href="{{ base_path }}/assets/css/academic-refinements.css?v=20261010-subtle">
+{% endif %}
