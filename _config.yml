@@ -152,7 +152,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "custom" # Cookie-free statistics in the private publication manager
   google:
     tracking_id          :
 
